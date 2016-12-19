@@ -2,10 +2,13 @@
   "name": "mgp-client",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nicola Fiori (JD342)",
-  "license": "GPL-3.0"
+  "author": "Nicola Fiori (JD342) & Samuele Sciancalepore (Samsci)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "libxmljs": "^0.18.0",
+    "monocle": "^1.1.51"
+  }
 }

@@ -9,7 +9,7 @@ const apk = join(
     'build',
     'outputs',
     'apk',
-    'android-debug.apk'
+    'android-armv7-debug.apk'
 );
 
 module.exports = () => new Promise((res, rej) => {
